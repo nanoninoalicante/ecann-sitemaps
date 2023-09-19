@@ -4,32 +4,4 @@
         <loc>https://www.ecann.fr/page-sitemap.xml</loc>
         <lastmod>2023-04-28T11:50:00+00:00</lastmod>
     </sitemap>
-    <sitemap>
-        <loc>https://marketplace.ecann.fr/page-sitemap.xml</loc>
-        <lastmod>2023-05-03T12:00:00+00:00</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://marketplace.ecann.fr/product-sitemap.xml</loc>
-        <lastmod>2023-04-28T09:00:00+00:00</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://marketplace.ecann.fr/mailpoet_page-sitemap.xml</loc>
-        <lastmod>2022-11-11T08:55:29+00:00</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://marketplace.ecann.fr/product_cat-sitemap.xml</loc>
-        <lastmod>2023-04-28T09:00:00+00:00</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://marketplace.ecann.fr/product_tag-sitemap.xml</loc>
-        <lastmod>2023-04-28T09:00:00+00:00</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://marketplace.ecann.fr/product_shipping_class-sitemap.xml</loc>
-        <lastmod>2023-03-23T14:32:55+00:00</lastmod>
-    </sitemap>
-    <sitemap>
-        <loc>https://marketplace.ecann.fr/dokan_sellers-sitemap.xml</loc>
-        <lastmod>2023-04-28T09:00:00+00:00</lastmod>
-    </sitemap>
 </sitemapindex>
